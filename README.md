@@ -1,5 +1,5 @@
 
-# escape-regexp
+# multi-escape
 
   Escape one or more special characters.
 

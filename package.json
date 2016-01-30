@@ -11,6 +11,10 @@
     "multipart",
     "multi"
   ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Dreistein/multi-escape.git"
+  },
   "author": "Dreistein",
   "license": "MIT",
   "dependencies": {
