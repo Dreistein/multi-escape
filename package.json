@@ -1,0 +1,19 @@
+{
+  "name": "multi-escape",
+  "version": "0.0.1",
+  "description": "Escape one or more special characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "escape",
+    "multipart",
+    "multi"
+  ],
+  "author": "Dreistein",
+  "license": "MIT",
+  "dependencies": {
+    "escape-regexp": "0.0.1"
+  }
+}
